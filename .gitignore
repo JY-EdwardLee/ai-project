@@ -1,0 +1,25 @@
+venv
+/venv
+venv/
+
+# datasets and large files
+p1-ai-common-skeleton-master/1_computer_vision/dataset/
+p1-ai-common-skeleton-master/1_computer_vision/dataset.zip
+p1-ai-common-skeleton-master/1_computer_vision/trocr_dataset/
+p1-ai-common-skeleton-master/1_computer_vision/trocr_dataset.zip
+p1-ai-common-skeleton-master/1_computer_vision/runs/
+p1-ai-common-skeleton-master/1_computer_vision/aihub-korean-trocr/
+p1-ai-common-skeleton-master/1_computer_vision/aihub-korean-trocr.zip
+
+# recommendation dataset zips
+p1-ai-common-skeleton-master/3_recommendation/147.속성기반 감정분석 데이터/01-1.정식개방데이터/Training/01.원천데이터/*.zip
+
+# mini-project data directories
+p1-ai-common-skeleton-master/mini-project/mcp-server/data/
+p1-ai-common-skeleton-master/mini-project/ai-dev-deployment/data/
+
+# model/checkpoint weights
+*.pt
+*.pth
+
+*.csv
