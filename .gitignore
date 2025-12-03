@@ -21,5 +21,3 @@ p1-ai-common-skeleton-master/mini-project/ai-dev-deployment/data/
 # model/checkpoint weights
 *.pt
 *.pth
-
-*.csv
